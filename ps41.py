@@ -16,4 +16,5 @@ for i in range(n):
 
 print(f"{x}: not found")
 
-#0(n,m)
+#0(n,m) Omega(1)
+#(cautare binara dar pe matrice)

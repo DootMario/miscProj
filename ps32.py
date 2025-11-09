@@ -17,7 +17,7 @@ for i in range(n):
         amult[j*i+j].append(a[i][j])
         bmult[j*i+j].append(i)
         bmult[j*i+j].append(j)
-        amult[j * i + j].append(a[i][j])
+        bmult[j*i+j].append(b[i][j])
 
 reunite = reunite(amult, bmult)
 intersect = intersect(amult, bmult)

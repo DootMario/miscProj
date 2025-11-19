@@ -9,17 +9,17 @@ print(rot)
 
 shift=rot[0]
 
-low=shift
-high=(low-1)%len(rot)
+low=0
+high=len(rot)-1
 
 x=int(input("Mi-l dai?: "))
 
-while (low-shift)%len(rot)<=(high-shift)%len(rot):
-    mid=(low+high)//2%len(rot)
-    if x==rot[mid]:
+while low<=high:
+    mid=(low+high)//2
+    if x==rot[(mid+shift)%len(rot)]:
         print(x)
         break
-    if x<rot[mid]:
-        high=(mid-1)%len(rot)
+    if x<rot[(mid+shift)%len(rot)]:
+        high=mid-1
     else:
-        low=(mid+1)%len(rot)
+        low=mid+1

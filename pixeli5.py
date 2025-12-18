@@ -1,4 +1,4 @@
-import random
+import dataSet
 
 
 class Pixel:

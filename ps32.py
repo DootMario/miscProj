@@ -1,4 +1,4 @@
-import random
+import dataSet
 
 from multimi4 import reunite,intersect
 

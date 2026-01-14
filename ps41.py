@@ -1,4 +1,4 @@
-import random
+import dataSet
 
 n=int(input())
 m=int(input())

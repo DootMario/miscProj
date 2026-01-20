@@ -1,0 +1,6 @@
+alin,untura
+alex,ciocolata
+mircea,lego
+iuliu,carte
+andrei,tatuaj
+iuliu,creanta la LC

@@ -1,0 +1,26 @@
+[
+  {
+    "oras": "timisoara",
+    "h": 20,
+    "nr": 21,
+    "c": "rosu"
+  },
+  {
+    "oras": "brad",
+    "h": 23,
+    "nr": 26,
+    "c": "alb"
+  },
+  {
+    "oras": "oravita",
+    "h": 123,
+    "nr": 15,
+    "c": "verde"
+  },
+  {
+    "oras": "targoviste",
+    "h": 20,
+    "nr": 100,
+    "c": "rosu"
+  }
+]

@@ -1,0 +1,3 @@
+ranga 3
+mihai 10
+andrei 15

@@ -1,5 +1,5 @@
-alin,1
-alex,1
-mircea,1
-iuliu,2
-andrei,1
+alin:1
+alex:1
+mircea:1
+iuliu:2
+andrei:1
